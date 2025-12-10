@@ -18,7 +18,7 @@ def main():
     while True:
         clear_screen()
         print("="*50)
-        print("   🚀 AI AGENT PORTFOLIO LAUNCHER")
+        print("   🚀 BUSINESS AI SOLUTIONS SUITE")
         print("="*50)
         
         questions = [

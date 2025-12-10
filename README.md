@@ -1,58 +1,58 @@
-# AI Agent Portfolio
+# Business AI Solutions Suite
 
-This directory contains a collection of production-ready AI agents.
+A comprehensive collection of production-ready AI agents designed to automate critical business workflows. This suite leverages state-of-the-art LLMs (DeepSeek-V3, Claude 3.5 Sonnet, GPT-4o) and agentic frameworks (CrewAI, LangGraph) to deliver tangible ROI.
 
-## 🚀 Available Agents
+## 🚀 Solutions Suite
 
-### 1. 🎯 Lead Finder
-**Location:** `lead_gen/app.py`
-**Type:** Streamlit App
-**Description:** Finds high-intent leads on Quora using Firecrawl (Search) and **DeepSeek-V3** (Extraction) for maximum intelligence at low cost. Exports to CSV and Google Sheets.
-**Usage:** `streamlit run lead_gen/app.py`
+### 1. 🎯 Lead Acquisition Engine (`lead_gen`)
+**Stack:** Streamlit, Firecrawl, DeepSeek-V3
+**Function:** Autonomous high-intent lead generation system. Scrapes social platforms (e.g., Quora) for intent signals, extracts verified user profiles using DeepSeek-V3, and aggregates data for sales outreach.
+**Output:** CSV / Google Sheets integration.
 
-### 2. 🏠 Real Estate Assistant
-**Location:** `real_estate/bot.py` (CLI) & `real_estate/agent.py` (Streamlit)
-**Type:** CLI Bot & Streamlit App
-**Description:** 
-- **CLI Bot:** A simulated WhatsApp bot that asks for user preferences and finds properties.
-- **Streamlit App:** A full dashboard for searching properties and analyzing location trends.
-**Usage:** 
-- CLI: `python real_estate/bot.py`
-- UI: `streamlit run real_estate/agent.py`
+### 2. 🚀 Startup Validator (`startup_validator`)
+**Stack:** CrewAI, Streamlit, SerperDevTool, DeepSeek-V3
+**Function:** A multi-agent system comprising a Market Analyst, Ecosystem Expert, Business Strategist, and Investment Analyst. It autonomously validates business ideas, performs competitive analysis, and generates professional investment memos.
 
-### 3. 📅 Content Calendar Creator
-**Location:** `social_media/app.py`
-**Type:** Streamlit App
-**Description:** Generates a strategic 7-day social media content calendar using CrewAI and Claude 3.7 Sonnet.
-**Usage:** `streamlit run social_media/app.py`
+### 3. 🧠 Deep Research System (`deep_research`)
+**Stack:** LangGraph, Streamlit, DeepSeek-V3
+**Function:** An iterative research engine that plans, gathers, synthesizes, and reviews complex topics. Designed for generating high-depth reports and white papers without human intervention.
 
-### 4. 📞 Sales Qualifier
-**Location:** `sales_qualifier/agent.py`
-**Type:** CLI Agent
-**Description:** An AI receptionist ("Sarah") that qualifies inbound leads via a simulated phone conversation and saves them to a CRM.
-**Usage:** `python sales_qualifier/agent.py`
+### 4. 📅 Content Strategy Engine (`social_media`)
+**Stack:** CrewAI, Claude 3.5 Sonnet
+**Function:** End-to-end social media management. Generates strategic 7-day content calendars tailored to industry trends and brand voice.
 
-### 5. 🚀 Startup Idea Validator
-**Location:** `startup_validator/app.py`
-**Type:** Streamlit App (CrewAI)
-**Description:** A team of 4 AI agents (Analyst, Ecosystem Expert, Strategist, Investor) that validate startup ideas and generate reports.
-**Usage:** `streamlit run startup_validator/app.py`
+### 5. 🏠 Real Estate Intelligence (`real_estate`)
+**Stack:** Python CLI / Streamlit
+**Function:** Dual-interface property assistant. Includes a CLI-based WhatsApp simulator for natural language property queries and a visual dashboard for market trend analysis.
 
-### 6. 🧠 Deep Research Agent
-**Location:** `deep_research/app.py`
-**Type:** Streamlit App (LangGraph)
-**Description:** A stateful agent workflow that Plans, Researches, Writes, Reviews, and Revises content iteratively using a graph architecture.
-**Usage:** `streamlit run deep_research/app.py`
+### 6. 📞 Sales Qualifier (`sales_qualifier`)
+**Stack:** Python CLI
+**Function:** AI-driven receptionist ("Sarah") capable of handling inbound inquiries, qualifying leads via natural conversation simulation, and logging data to CRM systems.
 
-## 🛠️ Setup
+---
 
-1. Install dependencies:
+## 🛠️ Deployment & Setup
+
+### Prerequisites
+- Python 3.10+
+- Verified API Keys for target LLM providers (OpenAI, Anthropic, OpenRouter) and utilities (Firecrawl, Serper).
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/business_ai_agents.git
+   cd business_ai_agents
+   ```
+
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-2. Set up environment variables in a `.env` file:
-   ```
+3. **Configure Environment:**
+   Create a `.env` file in the root directory:
+   ```env
    OPENAI_API_KEY=sk-...
    FIRECRAWL_API_KEY=fc-...
    COMPOSIO_API_KEY=...
@@ -60,7 +60,27 @@ This directory contains a collection of production-ready AI agents.
    SERPER_API_KEY=...
    ```
 
-3. Run the launcher to explore all agents:
-   ```bash
-   python launcher.py
-   ```
+### Execution
+
+**Unified Launcher:**
+Access all agents via the central CLI dashboard:
+```bash
+python launcher.py
+```
+
+**Individual Execution:**
+```bash
+# Lead Acquisition
+streamlit run lead_gen/app.py
+
+# Startup Validator
+streamlit run startup_validator/app.py
+
+# Deep Research
+streamlit run deep_research/app.py
+```
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
