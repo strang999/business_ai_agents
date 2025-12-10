@@ -1,0 +1,16 @@
+agno
+streamlit
+openai
+firecrawl-py
+composio-phidata
+python-dotenv
+pydantic
+requests
+crewai
+crewai-tools
+pandas
+langgraph
+langchain
+langchain_openai
+langchain_community
+inquirer
