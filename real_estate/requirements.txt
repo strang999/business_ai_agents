@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+agno
+pydantic
+firecrawl-py
+openai
