@@ -32,12 +32,18 @@ def send_whatsapp_message(to_number: str, text: str):
         "text": {"body": text}
     }
     
+    print(f"📤 Attempting to send message to {to_number}: {text}")
+    
     try:
         response = requests.post(url, headers=headers, json=data)
+        if response.status_code != 200:
+            print(f"❌ Meta API Error: {response.status_code}")
+            print(f"Response Body: {response.text}")
         response.raise_for_status()
+        print("✅ Message sent successfully!")
         return True
     except requests.exceptions.RequestException as e:
         print(f"❌ Error sending WhatsApp message: {e}")
-        if response:
-            print("Response:", response.text)
+        if 'response' in locals() and response is not None:
+             print("Response Body:", response.text)
         return False

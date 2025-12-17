@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: skylix-whatsapp-bot
+    env: docker
+    region: frankfurt
+    plan: free
+    dockerContext: ./real_estate
+    dockerfilePath: ./real_estate/Dockerfile
+    envVars:
+      - key: META_VERIFY_TOKEN
+        sync: false
+      - key: META_ACCESS_TOKEN
+        sync: false
+      - key: META_PHONE_NUMBER_ID
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: FIRECRAWL_API_KEY
+        sync: false
+    autoDeploy: true

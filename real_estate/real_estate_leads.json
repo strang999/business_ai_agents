@@ -1,0 +1,27 @@
+{
+  "leads": {},
+  "conversations": {
+    "16315551181": [
+      {
+        "timestamp": "2025-12-17T00:36:48.828842",
+        "sender": "user",
+        "text": "this is a text message"
+      },
+      {
+        "timestamp": "2025-12-17T00:36:48.868023",
+        "sender": "bot",
+        "text": "I didn't quite catch that. Please type 1, 2, or 3. \ud83e\udd14"
+      },
+      {
+        "timestamp": "2025-12-17T00:37:16.779981",
+        "sender": "user",
+        "text": "this is a text message"
+      },
+      {
+        "timestamp": "2025-12-17T00:37:16.817415",
+        "sender": "bot",
+        "text": "I didn't quite catch that. Please type 1, 2, or 3. \ud83e\udd14"
+      }
+    ]
+  }
+}
