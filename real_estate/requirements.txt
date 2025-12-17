@@ -6,3 +6,4 @@ agno
 pydantic
 firecrawl-py
 openai
+streamlit
