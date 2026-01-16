@@ -1,0 +1,340 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice Chat Test Interface</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .chat-container {
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .chat-messages {
+            height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #eee;
+            border-radius: 5px;
+        }
+        .message {
+            margin-bottom: 10px;
+            padding: 8px 15px;
+            border-radius: 18px;
+        }
+        .user {
+            background-color: #DCF8C6;
+            align-self: flex-end;
+            margin-left: 40px;
+        }
+        .bot {
+            background-color: #F1F0F0;
+            align-self: flex-start;
+            margin-right: 40px;
+        }
+        .input-container {
+            display: flex;
+        }
+        #user-input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .status {
+            margin-top: 10px;
+            color: #666;
+        }
+        .controls {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Voice Chat Test Interface</h1>
+    <p>Use this interface to test your ElevenLabs voice integration locally without making phone calls.</p>
+    
+    <div class="chat-container">
+        <div class="chat-messages" id="chat-messages"></div>
+        
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Type your message here..." disabled>
+            <button id="send-btn" disabled>Send</button>
+        </div>
+        
+        <div class="status" id="status">Not connected</div>
+    </div>
+    
+    <div class="controls">
+        <button id="start-btn">Start New Chat</button>
+        <button id="end-btn" disabled>End Chat</button>
+    </div>
+    
+    <script>
+        let sessionId = null;
+        let audioQueue = [];
+        let isPlaying = false;
+        let pollingInterval = null;
+        
+        const messagesDiv = document.getElementById('chat-messages');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+        const startBtn = document.getElementById('start-btn');
+        const endBtn = document.getElementById('end-btn');
+        const statusDiv = document.getElementById('status');
+        
+        // Start a new chat session
+        startBtn.addEventListener('click', async () => {
+            try {
+                statusDiv.textContent = 'Starting session...';
+                const response = await fetch('/voice_chat/start', {
+                    method: 'POST'
+                });
+                
+                const data = await response.json();
+                sessionId = data.session_id;
+                
+                // Enable chat controls
+                userInput.disabled = false;
+                sendBtn.disabled = false;
+                startBtn.disabled = true;
+                endBtn.disabled = false;
+                
+                // Update status
+                statusDiv.textContent = `Connected (Session: ${sessionId})`;
+                
+                // Add initial message
+                addMessage('Bot is typing...', 'bot');
+                
+                // Start polling for audio
+                startPolling();
+            } catch (error) {
+                console.error('Error starting chat:', error);
+                statusDiv.textContent = 'Error starting chat. Check console for details.';
+            }
+        });
+        
+        // Send a message
+        sendBtn.addEventListener('click', async () => {
+            const text = userInput.value.trim();
+            if (!text) return;
+            
+            // Add user message to chat
+            addMessage(text, 'user');
+            
+            // Clear input
+            userInput.value = '';
+            
+            try {
+                // Disable controls while processing
+                sendBtn.disabled = true;
+                userInput.disabled = true;
+                
+                // Show typing indicator
+                addMessage('Bot is typing...', 'bot', 'typing-msg');
+                
+                // Send message to server
+                await fetch('/voice_chat/send', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        session_id: sessionId,
+                        text: text
+                    })
+                });
+                
+                // Restart polling for audio
+                startPolling();
+            } catch (error) {
+                console.error('Error sending message:', error);
+                document.getElementById('typing-msg')?.remove();
+                addMessage('Error: Failed to send message', 'bot');
+                
+                // Re-enable controls
+                sendBtn.disabled = false;
+                userInput.disabled = false;
+            }
+        });
+        
+        // Allow pressing Enter to send
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                sendBtn.click();
+            }
+        });
+        
+        // End chat session
+        endBtn.addEventListener('click', async () => {
+            if (!sessionId) return;
+            
+            try {
+                await fetch('/voice_chat/end', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        session_id: sessionId
+                    })
+                });
+                
+                // Stop polling
+                if (pollingInterval) {
+                    clearInterval(pollingInterval);
+                }
+                
+                // Reset state
+                sessionId = null;
+                audioQueue = [];
+                isPlaying = false;
+                
+                // Update UI
+                userInput.disabled = true;
+                sendBtn.disabled = true;
+                startBtn.disabled = false;
+                endBtn.disabled = true;
+                statusDiv.textContent = 'Session ended';
+                
+                addMessage('Chat session ended.', 'bot');
+            } catch (error) {
+                console.error('Error ending chat:', error);
+            }
+        });
+        
+        // Add a message to the chat
+        function addMessage(text, sender, id = null) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${sender}`;
+            messageDiv.textContent = text;
+            
+            if (id) {
+                messageDiv.id = id;
+            }
+            
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+        
+        // Start polling for audio chunks
+        function startPolling() {
+            // Clear existing polling interval
+            if (pollingInterval) {
+                clearInterval(pollingInterval);
+            }
+            
+            pollingInterval = setInterval(pollForAudio, 500);
+        }
+        
+        // Poll server for audio chunks
+        async function pollForAudio() {
+            if (!sessionId) return;
+            
+            try {
+                const response = await fetch(`/voice_chat/audio?session_id=${sessionId}`);
+                const data = await response.json();
+                
+                if (data.chunks && data.chunks.length > 0) {
+                    // Remove typing indicator if present
+                    document.getElementById('typing-msg')?.remove();
+                    
+                    // Add message if first chunk
+                    if (!isPlaying) {
+                        addMessage('Received audio response', 'bot');
+                    }
+                    
+                    // Add chunks to queue
+                    data.chunks.forEach(chunk => {
+                        const audioBlob = base64ToBlob(chunk, 'audio/mp3');
+                        audioQueue.push(audioBlob);
+                    });
+                    
+                    // Start playing if not already
+                    if (!isPlaying) {
+                        playNextAudio();
+                    }
+                }
+                
+                // If no more audio is coming and queue is empty
+                if (!data.more_coming && audioQueue.length === 0 && !isPlaying) {
+                    // Remove typing indicator
+                    document.getElementById('typing-msg')?.remove();
+                    
+                    // Re-enable controls
+                    sendBtn.disabled = false;
+                    userInput.disabled = false;
+                    
+                    // Stop polling
+                    clearInterval(pollingInterval);
+                    pollingInterval = null;
+                }
+            } catch (error) {
+                console.error('Error polling for audio:', error);
+            }
+        }
+        
+        // Play audio chunks in sequence
+        function playNextAudio() {
+            if (audioQueue.length === 0) {
+                isPlaying = false;
+                
+                // Re-enable controls when done
+                sendBtn.disabled = false;
+                userInput.disabled = false;
+                return;
+            }
+            
+            isPlaying = true;
+            const audioBlob = audioQueue.shift();
+            const audioUrl = URL.createObjectURL(audioBlob);
+            const audio = new Audio(audioUrl);
+            
+            audio.onended = () => {
+                URL.revokeObjectURL(audioUrl);
+                playNextAudio();
+            };
+            
+            audio.play().catch(error => {
+                console.error('Error playing audio:', error);
+                playNextAudio();
+            });
+        }
+        
+        // Convert base64 to Blob
+        function base64ToBlob(base64, mimeType) {
+            const byteString = atob(base64);
+            const ab = new ArrayBuffer(byteString.length);
+            const ia = new Uint8Array(ab);
+            
+            for (let i = 0; i < byteString.length; i++) {
+                ia[i] = byteString.charCodeAt(i);
+            }
+            
+            return new Blob([ab], { type: mimeType });
+        }
+    </script>
+</body>
+</html>
+    

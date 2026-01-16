@@ -1,0 +1,3287 @@
+﻿[
+{
+"IDProduct": "TSM_sg",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SG-1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "sg1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&(MP)",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SMP-1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&(AC)",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SAC-1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&(S)",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SS-1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_L",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "L1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-2031-L1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-2032-LP2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-2033-LP3-GUM",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-L1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-L2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-2033-LP3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-L3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-L5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-2035-LP5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "L3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "L2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_#CO",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#CO1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-311-SCH1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#TA",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#TA1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "#TA2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-301-STA1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-301-STA1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_C",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "C1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-C1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-C2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-C3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-C5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-1011-C1-FMB",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "C3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-1012-C2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-1015-C5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-1013-C3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-C1-v1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "C2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-154-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_&(7)",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-sample1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-sample5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-sample2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-sample3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_CC",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "CC1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#G",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "#G1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_SO",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "SO1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-SO1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-SO2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-SO3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-SO5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-1083-SO3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-SO2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "SO2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "SO3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-1081-SS1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-SO1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GMA-B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-GMA-B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GMA-B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GMA-B3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "GMA-B2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "GMA-B1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GMA-B5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GMA-B5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GMA-B2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "GMA-B3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MP20",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL-MP1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-EL/MP",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-BS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-BS20",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL-BS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-EL/BS",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-LL-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-LM20",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL-LL-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MW",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MW20",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL-MW1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-EL/MW",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_BTL",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "BTL1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "BTL",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_PF",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TMS-PF1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TMS-PF2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TMS-PF3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TMS-PF5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-1093-PF3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-1091-PF1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "PF1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-1092-PF2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-Sachet1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-Sachet3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_SPOON",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SPOON1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "SPOON",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GMT-B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "GMT-B1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GMT-B2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "GMT-B5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GMT-B3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_OR",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "OR1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "OR3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "OR2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-2041-OR1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet6-B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet6-B",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-BS-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-BS-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-LL",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-LL1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-EL/LL",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MP-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MP-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MW-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MW-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&2ozT",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&2ozT",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&2ozB",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&2ozB",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&2ozF",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&2ozF",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&1ozT",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&1ozT",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&1ozF",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&1ozF",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&1ozB",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-&1ozB",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_LBP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LBP/1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LBP/2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "LBP/3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LBP-u",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_LLP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LLP/1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LLP/2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "LLP/3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LLP-u",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_LMP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LMP/1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LMP/2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "LMP/3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LMP-u",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_LMIXP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LMIXP/2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "LMIXP/3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LMIXP-u",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LMIXP--1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LMIXP--3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "LMIXP--2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_LPCP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LPCP/1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LPCP-u",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "LPCP/2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "LPCP/3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MIX",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MIX1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_EL-MIX-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EL-MF1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "EL-MIX-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-FM",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-FM",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-FM1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-FM2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-FM3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "Sachet15-FM5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-IM",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-IM",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-TF",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-TF",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-AC",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-AC1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-AC2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-AC3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "Sachet15-AC5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-C",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-C",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-E",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-E",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-E1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-E5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "Sachet15-E2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-E3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-MA",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-MA1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-MA2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-MP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-MP",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-MP1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-MP2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-MP3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "Sachet15-MP5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-PF",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-PF2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-PF5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-L",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-L",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-SO",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-SO2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-SO3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "Sachet15-SO5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet15-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-S1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "Sachet15-S2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "Sachet15-S5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "Sachet15-S3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet1-MP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet1-MP",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_Sachet1-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "Sachet15-S",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#As",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#As1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#Cs",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#Os",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GPs(3)",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "GPs(3)",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_LBsfP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LBsf1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LBsf2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-LBsf3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LLsfP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LLsf1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LLsf3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LLsf2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_LMsfP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LMsf1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LMsf2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-LMsf3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LPCsfP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-PCsf1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-PCsf2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-PCsf3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LCAP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LCA1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LCA2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-LCA3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LLGP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LLG1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LLG2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-LLG3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LMPPP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LMP1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LMP3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LMP2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_LORP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LOR3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LOR1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LOR2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_LWMP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LWM1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LWM3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LWM2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_LPEP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-LPE1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-LPE3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-LPE2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_ECAPS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-ECAPS1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-ECAPS2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "ECAPS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "ECAPS2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-ECAPS5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "ECAPS3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "ECAPS5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-ECAPS1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_CAPS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387212360",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "CAPS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "CAPS2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "CAPS5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "CAPS3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-CAPS1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GM",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "WE-3QZB-SPJT",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "13-ITBH-GOLJ",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "7I-3TL1-833B",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "Q6-MZZX-X5CY",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "GCdS<SJ33g&38aQ=",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-GM1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "A5065006235219",
+"SalesChannel": "Walmart",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_MS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5065006235158",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5065006235127",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "MS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "M0-PRU5-QTH9",
+"SalesChannel": "Amazon",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_POWDER",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387212353",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "POWDER1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GOLD",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387212384",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "WI-LGFZ-31FG",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-451-GOLD",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GOLD1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GOLD8OZ",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387212377",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GOLD8OZ",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_R",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-143-R3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "4N-RWCK-STA0",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "SY-VYOT-RVWY",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-142-R2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387212445",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-R1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "R2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "R5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-R3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "R3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387212469",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "4N-RWCK-STA0-DUB",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-1041-R1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-R2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-R5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "ZB-OA5Z-DWH1",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387212438",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "A5054387212452",
+"SalesChannel": "Walmart",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "R1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_E",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387212407",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387212421",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "A5054387212414",
+"SalesChannel": "Walmart",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "K8-JW0E-1VZZ",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "AC-U7NU-BIZT",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "KL-2CCQ-0U4K",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "E3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-E3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "E1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "E2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "E4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "TSM-E1-v1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-E2-v1",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-113-GE3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-E1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-E2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-E5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "XR-23Y3-TBNX",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387212391",
+"SalesChannel": "Walmart",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387221270",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "HZ-PO9U-JBUL",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "HJ-ME54-FMHJ",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "DF-8635-5YKM",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "3E-4WOL-7N3Y",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "A5054387221287",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "B2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "B1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-B2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387221294",
+"SalesChannel": "Walmart",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387221409",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387221416",
+"SalesChannel": "Walmart",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387221423",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "O0-9K7J-9O62",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-153-S3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "ER-D8O7-BKNT",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-153-S3-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "S3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "S1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "FF-TOZM-I45Q",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "S2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "S4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "TSM-153-S3-DUB",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-151-GS1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-S1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-S5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-S3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387221393",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-S2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_P",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387221362",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387221386",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "OC-IT8D-QOLD",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-135-P5",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "UU-VBBH-A6KS",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "18-GCN8-MYA6",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "P2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "P3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "P1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-P1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-P2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-P3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-P5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "P5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "L0-98GT-H9XT",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "A5054387221379",
+"SalesChannel": "Walmart",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "P2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "P3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "A5054387221355",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "P1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_M",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "0R-IN37-QG9W",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "BM-Q2VQ-6GF0",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "BR-Q5FB-PX6R",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-1021-MP1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-M1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-M2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-1022-MP2",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-123-MP3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-MP1-v1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MP2-v1",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A5054387221317",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "M5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "M4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "M3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-MP5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "A5054387221331",
+"SalesChannel": "Walmart",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-125-MP5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "M2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "M1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "M2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MP1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MP2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MP3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-M3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-M5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "A5054387221348",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "T5-U2OI-ZLO3",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "M1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "A5054387221324",
+"SalesChannel": "Walmart",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_A",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5054387221232",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "A5054387221249",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-1001-A1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "X9-P7HF-VOPG",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A8-FFFB-HTWJ",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "U6-MD0N-138I",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "A5054387221263",
+"SalesChannel": "Walmart",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "14-4JO5-QR6M",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-A1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-A3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-A5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-A2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "A1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GME",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-321-GME1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "UL-M6FA-27Z9",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "GME1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_MS8oz",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "A5065006235134",
+"SalesChannel": "Walmart",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_AC",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-AC",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-106-GAC1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-107-GAC2",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-108-GAC3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-AC1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-AC2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-109-GAC3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-107-GAC2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "AC3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-AC5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-AC3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-109-GAC5-OLD",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "AC2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "AC1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "AC2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+}
+]
+},
+{
+"IDProduct": "TSM_PURPL",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "EY-DQWZ-4GCU",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "PURPLE1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#T",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#T1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "# T1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "#T1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#A",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#A1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "#A1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#C",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#C1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "#C1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_#O",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "#O1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_MA",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-MA5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "MA3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "MA2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-221-GM1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-222-GM2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MNG1-v1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MNG2-v1",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MA1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MA2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MA3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "MA1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-2022-M2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-2023-M3-GUM",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-2025-M5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-2023-M3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-2025-M5-GUM",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-221-GM1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MNG1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-MNG2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-MNG3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-MNG5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_SpGSMPL",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "SPG1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_SpB",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-SpB",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-203-SPB3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-205-SPB5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-201-SPB1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-2001-SPB1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-BSP1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "SPB3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-SPB1-v1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-SPB2-v1",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "SPB2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-SPB2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-202-SPB2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-SPB3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "SPB4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "TSM-2003-SPB2",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-SPB5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-BSP2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-BSP3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-BSP5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "SPB1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "SPB1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-SPB1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_&",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "SAMPLE1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GP",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "GP1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-GP",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GP1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-401-GP-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_ABG",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-212-ABG2",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-213-ABG3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-2011-ABG1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-211-ABG1",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-215-ABG5",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-ABG1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "ABG1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "ABG2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-212-ABG2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "ABG3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-ABG",
+"SalesChannel": "Walmart",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GP-S",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "GP-S1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_GM-B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-341-GMB1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-GME",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-341-GMB1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-342-GMB2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GM-B1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GM-B2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GM-B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GM-B5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GM-B3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "TSM-342-GMB2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GM2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GM5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-GM3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_GME-B",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-GME-B",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-351-GMBE1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-351-GMBE1",
+"SalesChannel": "Walmart",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-353-GMBE3",
+"SalesChannel": "Amazon",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "GME-B1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "GME-B2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GME-B2",
+"SalesChannel": "TikTok",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GME-B5",
+"SalesChannel": "TikTok",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "GME-B3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "GME-B5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+},
+{
+"IDProductInSalesChannel": "TSM-352-GMBE2-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-352-GMBE2",
+"SalesChannel": "Walmart",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "TSM-GME-B1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-GME-B3",
+"SalesChannel": "TikTok",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_LPC",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LPC12",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LPC4",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LPC8",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LPCP-1",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LPCP-2",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LPCP-3",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "TSM-LPCP",
+"SalesChannel": "Amazon",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "TSM_LB",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LB12",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LB4",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LB8",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LBP-1",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LBP-3",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LBP-2",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "TSM-LBP",
+"SalesChannel": "Amazon",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "TSM_LM",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LM12",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LM4",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LM8",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LMP-1",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LMP-2",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "TSM-LMP",
+"SalesChannel": "Amazon",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "TSM_LL",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "LL8",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LL12",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LL4",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LLP-3",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "LLP-1",
+"SalesChannel": "TikTok",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "LLP-2",
+"SalesChannel": "TikTok",
+"Quantity": 8
+},
+{
+"IDProductInSalesChannel": "LMP-3",
+"SalesChannel": "TikTok",
+"Quantity": 12
+},
+{
+"IDProductInSalesChannel": "TSM-LLP",
+"SalesChannel": "Amazon",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "TSM_GL2oz",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "GL1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_ED",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-606-DE",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "ED1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_SD",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-601-DS1-FBA",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "SD1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_AD",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "TSM-611-DA1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "AD1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "TSM_MPDT",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "MPDT1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "MPDT2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "MPDT4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "MPDT3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "MPDT5",
+"SalesChannel": "Shopify",
+"Quantity": 5
+}
+]
+},
+{
+"IDProduct": "TSM_PHS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "PHS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "PHS2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "PHS4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "PHS3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_ACAS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "ACAS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "ACAS2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "ACAS4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "ACAS3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_SRH",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "SRH1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "SRH2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "SRH3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+},
+{
+"IDProductInSalesChannel": "SRH4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "TSM_MIS",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "MIS1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "MIS2",
+"SalesChannel": "Shopify",
+"Quantity": 2
+},
+{
+"IDProductInSalesChannel": "MIS4",
+"SalesChannel": "Shopify",
+"Quantity": 4
+},
+{
+"IDProductInSalesChannel": "MIS3",
+"SalesChannel": "Shopify",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "TSM_T",
+"ProductCodes": [
+{
+"IDProductInSalesChannel": "T1",
+"SalesChannel": "Shopify",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-2011-T1-FBM",
+"SalesChannel": "Amazon",
+"Quantity": 1
+},
+{
+"IDProductInSalesChannel": "TSM-T1",
+"SalesChannel": "TikTok",
+"Quantity": 1
+}
+]
+}
+]

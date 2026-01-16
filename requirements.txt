@@ -14,3 +14,5 @@ langchain
 langchain_openai
 langchain_community
 inquirer
+fastapi
+uvicorn

@@ -1,0 +1,9886 @@
+﻿[
+{
+"IDProduct": "M-FBA",
+"ProductComposition": [
+{
+"IDProduct": "MA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "A-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "A",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "B-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "B",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CAPS-WAL",
+"ProductComposition": [
+{
+"IDProduct": "CAPS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SOAP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "sg",
+"ProductComposition": [
+{
+"IDProduct": "2-GM-SMC",
+"Quantity": 0.04
+},
+{
+"IDProduct": "3-PM-SBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "B2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "B",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#C-SPR",
+"ProductComposition": [
+{
+"IDProduct": "2-OS-CVC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LS-VCN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PS-MSH",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#O-SPR",
+"ProductComposition": [
+{
+"IDProduct": "2-OS-OMH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LS-OMH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PS-MSH",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-O6",
+"ProductComposition": [
+{
+"IDProduct": "#O-SPR",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-C6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "#C-SPR",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "&(E)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(MP)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(MA)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(R)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(A)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(AC)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(B)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(S)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(SpB)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "1oz(MIX1)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&(MP)",
+"Quantity": 1
+},
+{
+"IDProduct": "&(AC)",
+"Quantity": 1
+},
+{
+"IDProduct": "&(E)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-70403",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(ABG)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(P)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BLH",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 28.57143
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-BLH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPMH",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 37.03704
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-MHP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MWH",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 27.02703
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-WHP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CGH",
+"ProductComposition": [
+{
+"IDProduct": "3-JE-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-GHS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-LPI",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#CO",
+"ProductComposition": [
+{
+"IDProduct": "#Cs",
+"Quantity": 1
+},
+{
+"IDProduct": "#O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#TA",
+"ProductComposition": [
+{
+"IDProduct": "#T",
+"Quantity": 1
+},
+{
+"IDProduct": "#As",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-L6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+},
+{
+"IDProduct": "L",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "C",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-Che",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.39
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.45
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.13
+},
+{
+"IDProduct": "1-LC-CHE",
+"Quantity": 0.45
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 30
+},
+{
+"IDProduct": "1-LP-CRR",
+"Quantity": 133.63
+},
+{
+"IDProduct": "1-LC-RED",
+"Quantity": 2.23
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ESMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 17.14
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.42
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.31
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-LC-BCB",
+"Quantity": 0.47
+},
+{
+"IDProduct": "1-LC-EDB",
+"Quantity": 10.41
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 29.66
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 0.36
+},
+{
+"IDProduct": "1-LC-GRP",
+"Quantity": 0.19
+},
+{
+"IDProduct": "1-LP-BBR",
+"Quantity": 53.38
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpG",
+"ProductComposition": [
+{
+"IDProduct": "1-LC-MNT",
+"Quantity": 0.192
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.286
+},
+{
+"IDProduct": "1-PX-SPG",
+"Quantity": 0.432
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-SPG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpBSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 9.55
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.27
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.19
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.09
+},
+{
+"IDProduct": "1-LC-RSB",
+"Quantity": 0.3
+},
+{
+"IDProduct": "1-PX-SPB",
+"Quantity": 0.04
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 15.07
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 7.53
+},
+{
+"IDProduct": "1-LC-BLE",
+"Quantity": 0.49
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.40578
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.29757
+},
+{
+"IDProduct": "1-LP-BAN",
+"Quantity": 115.60694
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.13526
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.04855
+},
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 28.90173
+},
+{
+"IDProduct": "1LC-BNN",
+"Quantity": 0.36994
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 15.71004
+}
+]
+},
+{
+"IDProduct": "MASMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.43
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 122.59
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.15
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.32
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 30.65
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.49
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(1)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(7)",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 7
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 113.34
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.45
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.13
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 28.34
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.29
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+}
+]
+},
+{
+"IDProduct": "ACSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-LP-APP",
+"Quantity": 0.07
+},
+{
+"IDProduct": "1-LJ-APP",
+"Quantity": 101.35
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-PE-CNN",
+"Quantity": 0.68
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 28.63
+},
+{
+"IDProduct": "1-LC-GAP",
+"Quantity": 0.18
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 13.59
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "RSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.5
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.37
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.17
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 0.83
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 0.71
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 12.71
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 3.81
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.06
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GP4POD",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-GP4",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CC",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 22.58824
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-Che",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "SpB",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#G",
+"ProductComposition": [
+{
+"IDProduct": "2-OS-GFT",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SO",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-SRS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD2OZ",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-PRE",
+"Quantity": 0.12566
+},
+{
+"IDProduct": "3-PX-GD2",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "C-FBA",
+"ProductComposition": [
+{
+"IDProduct": "C",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMA",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-ASH",
+"Quantity": 60
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-ASH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMA-B",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-ASH",
+"Quantity": 60
+},
+{
+"IDProduct": "3-PM-ASS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(3)",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L-FBA",
+"ProductComposition": [
+{
+"IDProduct": "L",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EL-LL-S",
+"ProductComposition": [
+{
+"IDProduct": "BTL",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "EL-LL",
+"Quantity": 1
+},
+{
+"IDProduct": "spack",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BTL",
+"ProductComposition": [
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SO-FBA",
+"ProductComposition": [
+{
+"IDProduct": "SO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-CH6",
+"ProductComposition": [
+{
+"IDProduct": "C",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PF",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-PSF",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PF-FBA",
+"ProductComposition": [
+{
+"IDProduct": "PF",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-GEN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&2oz(1)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM2",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM2",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MA1GL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 135.9
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.34
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 955.22
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 1.53
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.15
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 2.48
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "C2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "C",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "L",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MA2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "MA",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EMS8oz-FBA",
+"ProductComposition": [
+{
+"IDProduct": "MP8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "S8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "E8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L-SMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.38
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.13
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 26.79
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.28
+},
+{
+"IDProduct": "1-LE-VAN",
+"Quantity": 0.11
+},
+{
+"IDProduct": "1-LC-LEP",
+"Quantity": 0.51
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 12.86
+},
+{
+"IDProduct": "1-LC-YLL",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 22.65
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.13636
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S-SMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 19.55
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.39
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.28
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 88.52
+},
+{
+"IDProduct": "1-LC-STB",
+"Quantity": 0.35
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.13
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 27.66
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&2oz(TF)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "&2oz(HP)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "&2oz(NR)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "&(7)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 7
+}
+]
+},
+{
+"IDProduct": "CP",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PC",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-P6",
+"ProductComposition": [
+{
+"IDProduct": "P",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-MA6",
+"ProductComposition": [
+{
+"IDProduct": "MA",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-C6",
+"ProductComposition": [
+{
+"IDProduct": "C",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-L6",
+"ProductComposition": [
+{
+"IDProduct": "L",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GG",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-GRV",
+"Quantity": 60
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-GVL",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMT-B",
+"ProductComposition": [
+{
+"IDProduct": "2-GM-SBA",
+"Quantity": 60
+},
+{
+"IDProduct": "3-PM-TEN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMT",
+"ProductComposition": [
+{
+"IDProduct": "2-GM-SBA",
+"Quantity": 60
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-101",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "OR",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-ORG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PF2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "PF",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet6-B",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-ABG",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-SpB",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-L",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-E",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "OR-FBA",
+"ProductComposition": [
+{
+"IDProduct": "OR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EL-BS-S",
+"ProductComposition": [
+{
+"IDProduct": "EL-BS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "BTL",
+"Quantity": 1
+},
+{
+"IDProduct": "spack",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EL-MP-S",
+"ProductComposition": [
+{
+"IDProduct": "EL-MP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "BTL",
+"Quantity": 1
+},
+{
+"IDProduct": "spack",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EL-MW-S",
+"ProductComposition": [
+{
+"IDProduct": "BTL",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "EL-MW",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-7PC",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&2ozT",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-3PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-90403",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&2ozB",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-3PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-90403",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&2ozF",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-3PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-90403",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&1ozT",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 7
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-7PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-130303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&1ozF",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 7
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-7PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-130303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&1ozB",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 7
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BG-7PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-130303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMSPR-B",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-SMS",
+"Quantity": 60
+},
+{
+"IDProduct": "3-PM-SM3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LBP",
+"ProductComposition": [
+{
+"IDProduct": "LB",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLP",
+"ProductComposition": [
+{
+"IDProduct": "LL",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMP",
+"ProductComposition": [
+{
+"IDProduct": "LM",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMIXP",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "LB",
+"Quantity": 1
+},
+{
+"IDProduct": "LL",
+"Quantity": 1
+},
+{
+"IDProduct": "LM",
+"Quantity": 1
+},
+{
+"IDProduct": "LPC",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPCP",
+"ProductComposition": [
+{
+"IDProduct": "LPC",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EL-MIX-S",
+"ProductComposition": [
+{
+"IDProduct": "EL-MIX",
+"Quantity": 1
+},
+{
+"IDProduct": "spack",
+"Quantity": 1
+},
+{
+"IDProduct": "BTL",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-SO6",
+"ProductComposition": [
+{
+"IDProduct": "SO",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "M",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "M",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB1GL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 194.76
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.25
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 4.91
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.06
+},
+{
+"IDProduct": "1-LC-RSB",
+"Quantity": 5.02
+},
+{
+"IDProduct": "1-PX-SPB",
+"Quantity": 0.45
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.37
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 89.21
+},
+{
+"IDProduct": "1-LC-BLE",
+"Quantity": 7.45
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 1.0909
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "SO2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "SO",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SGH",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 113.63625
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-GHP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CMH",
+"ProductComposition": [
+{
+"IDProduct": "3-JE-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-MHM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CIH",
+"ProductComposition": [
+{
+"IDProduct": "3-JE-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-ISM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CLH",
+"ProductComposition": [
+{
+"IDProduct": "3-JE-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-LHB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LE-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.06087
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-ASH",
+"Quantity": 1.26153
+},
+{
+"IDProduct": "1-LO-BSD",
+"Quantity": 1.00923
+},
+{
+"IDProduct": "1-PE-GNG",
+"Quantity": 0.62824
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.20185
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 126.15341
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": " M 12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.17
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 74.53
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "P",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "P",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "S",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "S",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "SpB",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "SpB",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "E",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "E",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "AC",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "AC",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "R",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Ma5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "MA",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "R",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG 12oz",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-120",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 137.71
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.51
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 2.57
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.17
+},
+{
+"IDProduct": "1-LC-BCB",
+"Quantity": 2.4
+},
+{
+"IDProduct": "1-LC-EDB",
+"Quantity": 87.75
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.42
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "Sachet15-FM",
+"ProductComposition": [
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-C",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MA",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-P",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LH-FMX",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-IM",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-E",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-SO",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-PF",
+"Quantity": 3
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-IMX",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-TF",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-SO",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-L",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-ABG",
+"Quantity": 3
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-TFL",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-AC",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-AC",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-CAN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-SpB",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-SpB",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-BSR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-C",
+"ProductComposition": [
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-C",
+"Quantity": 15
+},
+{
+"IDProduct": "3-LH-Che",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-E",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-E",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-EDB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ааа",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-Che",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-MA",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-MA",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-MAN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-MP",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-MPA",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-PF",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-PF",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-PSF",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-L",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-L",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-LPI",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-R",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-R",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-REG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-P",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-P",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-PNP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-SO",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-SO",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-SRS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-S",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-STB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1AC",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-Che",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-E",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-EDB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-C",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-Che",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SO-SAMPLE",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 10.03
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-SRS",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.56
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.46
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.15
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-LC-SSP",
+"Quantity": 0.74
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 28.93
+},
+{
+"IDProduct": "1-LP-SRS",
+"Quantity": 157.36
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.1
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CP8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PC8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MZ8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(MA)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(MP)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(AC)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(E)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(S)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(L)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(ABG)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(SPB)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(PF)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(P)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(SO)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(OR)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(C)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "2oz(R)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&2oz(1)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-30303",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "1oz(MIX2)-FBA",
+"ProductComposition": [
+{
+"IDProduct": "&(MP)",
+"Quantity": 1
+},
+{
+"IDProduct": "&(C)",
+"Quantity": 1
+},
+{
+"IDProduct": "&(E)",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLM",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-BX-70403",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-PF",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-PSF",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-SO",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-SRS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-MP",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-MPA",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-OR",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 1.46442
+},
+{
+"IDProduct": "3-HG-ORG",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.03958
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.02136
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.00961
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.00345
+},
+{
+"IDProduct": "1-LC-ORG",
+"Quantity": 0.02639
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2
+},
+{
+"IDProduct": "1-LP-ORN",
+"Quantity": 6.92726
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01333
+},
+{
+"IDProduct": "1-LE-VAN",
+"Quantity": 0.01319
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 0.06667
+}
+]
+},
+{
+"IDProduct": "Sachet1-S",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-STB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-SpB",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-BSR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-MA",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-MAN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-L",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-LPI",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-AC",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-ACI",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-P",
+"ProductComposition": [
+{
+"IDProduct": "3-HG-PNP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-R",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet1-ABG",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet15-ABG",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-ABG",
+"Quantity": 15
+},
+{
+"IDProduct": "3-PH-15S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LH-MBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(C)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CLHs",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 1.10109
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.02674
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.01961
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.00891
+},
+{
+"IDProduct": "1-LC-BCB",
+"Quantity": 0.03048
+},
+{
+"IDProduct": "1-LC-EDB",
+"Quantity": 0.66857
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.0032
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 1.90476
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 0.02286
+},
+{
+"IDProduct": "1-LC-GRP",
+"Quantity": 0.01219
+},
+{
+"IDProduct": "1-LP-BBR",
+"Quantity": 3.42857
+},
+{
+"IDProduct": "1-LE-MLT",
+"Quantity": 0.04571
+},
+{
+"IDProduct": "1-PE-CUR",
+"Quantity": 0.07619
+},
+{
+"IDProduct": "1-LE-ART",
+"Quantity": 0.01102
+},
+{
+"IDProduct": "1-LE-DND",
+"Quantity": 0.01524
+},
+{
+"IDProduct": "1-LE-CSC",
+"Quantity": 0.01524
+},
+{
+"IDProduct": "1-LE-SCH",
+"Quantity": 0.00762
+},
+{
+"IDProduct": "1-LP-BLB",
+"Quantity": 1.52381
+},
+{
+"IDProduct": "1-PE-LVL",
+"Quantity": 0.05287
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01333
+},
+{
+"IDProduct": "3-HE-LHB",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 0.06667
+}
+]
+},
+{
+"IDProduct": "CMHs",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 1.15
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 3.36
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 5.23
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.02
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.00333
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PE-LCF",
+"Quantity": 0.08
+},
+{
+"IDProduct": "1-PE-LCT",
+"Quantity": 0.15
+},
+{
+"IDProduct": "1-LO-OMG",
+"Quantity": 0.02
+},
+{
+"IDProduct": "1-LE-CTB",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-LE-ART",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-SPB",
+"Quantity": 0.02
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PE-INS",
+"Quantity": 0.22
+},
+{
+"IDProduct": "3-HE-MHM",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 0.06667
+}
+]
+},
+{
+"IDProduct": "CIHs",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 1.2
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.04
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 7.44
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.02
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.00311
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2
+},
+{
+"IDProduct": "1-LO-BSD",
+"Quantity": 0.06
+},
+{
+"IDProduct": "1-PE-ASH",
+"Quantity": 0.07
+},
+{
+"IDProduct": "1-PE-GNG",
+"Quantity": 0.04
+},
+{
+"IDProduct": "1-PE-DEP",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01
+},
+{
+"IDProduct": "3-HE-ISM",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 0.07
+}
+]
+},
+{
+"IDProduct": "#As",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-BER",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#Cs",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-CVC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-VCN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#Ts",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-GTM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-TMT",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#Os",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-OMH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-OMH",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&(PF)",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TG-SM1",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GCAPS",
+"ProductComposition": [
+{
+"IDProduct": "3-LQ-SSP",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OQ-GRV",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LBsf",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-MXB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLsf",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LSF",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMsf",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-MAN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPCsf",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-PCO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLG",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LMG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMPP",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-MPP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LCA",
+"ProductComposition": [
+{
+"IDProduct": "1-LF-LEM",
+"Quantity": 0.95
+},
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-CHA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPE",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-PFE",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LWM",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-WMM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LOR",
+"ProductComposition": [
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-BOR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LID",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "MA",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SO3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "SO",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SO5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "SO",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PF3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "PF",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PF5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "PF",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L3-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-120704",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 3
+},
+{
+"IDProduct": "L",
+"Quantity": 3
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "L5-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-131004",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 5
+},
+{
+"IDProduct": "L",
+"Quantity": 5
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CGL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 0.84
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.04
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.01
+},
+{
+"IDProduct": "1-LC-CHE",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.00324
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 1.54
+},
+{
+"IDProduct": "1-LP-CRR",
+"Quantity": 9.26
+},
+{
+"IDProduct": "1-LC-RED",
+"Quantity": 0.15
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 0
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "SA",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P BL",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LBsf-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LBsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLG-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LLG",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMPP-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LMPP",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPCsf-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LPCsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLsf-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LLsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMsf-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LMsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LWM-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LWM",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPE-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LPE",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LCA-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LCA",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LOR-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LOR",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GS",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P (GAL)",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 0.95532
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.0393
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 8.18851
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.03275
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.00954
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.00343
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2.04713
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.02121
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.01376
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "GPs(3)",
+"ProductComposition": [
+{
+"IDProduct": "GPs",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "CR",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-CNB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BTT-IE1",
+"ProductComposition": [
+{
+"IDProduct": "3-TB-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JB-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BTT",
+"ProductComposition": [
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 17952
+},
+{
+"IDProduct": "1-LP-SRS",
+"Quantity": 17544
+},
+{
+"IDProduct": "1-PE-HBS",
+"Quantity": 652.8
+},
+{
+"IDProduct": "1-PE-ALV",
+"Quantity": 40.8
+},
+{
+"IDProduct": "1-PE-SRR",
+"Quantity": 408
+},
+{
+"IDProduct": "1-PE-GNG",
+"Quantity": 244.8
+},
+{
+"IDProduct": "1-LC-SSP",
+"Quantity": 244.8
+},
+{
+"IDProduct": "1-LC-STB",
+"Quantity": 244.8
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2856
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 32.64
+},
+{
+"IDProduct": "1-PE-LTH",
+"Quantity": 244.8
+},
+{
+"IDProduct": "1-PE-CMM",
+"Quantity": 261.12
+},
+{
+"IDProduct": "1-LO-FLX",
+"Quantity": 3672
+},
+{
+"IDProduct": "1-PE-THY",
+"Quantity": 81.6
+},
+{
+"IDProduct": "1-LE-DND",
+"Quantity": 408
+}
+]
+},
+{
+"IDProduct": "BTT-GC1",
+"ProductComposition": [
+{
+"IDProduct": "3-TB-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JB-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMIXPsf",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "LBsf",
+"Quantity": 1
+},
+{
+"IDProduct": "LLsf",
+"Quantity": 1
+},
+{
+"IDProduct": "LMsf",
+"Quantity": 1
+},
+{
+"IDProduct": "LPCsf",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LBsfP",
+"ProductComposition": [
+{
+"IDProduct": "LBsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLsfP",
+"ProductComposition": [
+{
+"IDProduct": "LLsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMsfP",
+"ProductComposition": [
+{
+"IDProduct": "LMsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPCsfP",
+"ProductComposition": [
+{
+"IDProduct": "LPCsf",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LCAP",
+"ProductComposition": [
+{
+"IDProduct": "LCA",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLGP",
+"ProductComposition": [
+{
+"IDProduct": "LLG",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMPPP",
+"ProductComposition": [
+{
+"IDProduct": "LMPP",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LORP",
+"ProductComposition": [
+{
+"IDProduct": "LOR",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LWMP",
+"ProductComposition": [
+{
+"IDProduct": "LWM",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPEP",
+"ProductComposition": [
+{
+"IDProduct": "LPE",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sbox15-FM",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-ABG",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-S",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-P",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 3
+},
+{
+"IDProduct": "Sachet1-MA",
+"Quantity": 3
+}
+]
+},
+{
+"IDProduct": "Sachet1-CR",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 1.3
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.03
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.022
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.07
+},
+{
+"IDProduct": "1-LC-CNB",
+"Quantity": 0.029
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.0026
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 2
+},
+{
+"IDProduct": "1-LP-CRB",
+"Quantity": 7.66
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.0133
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 0.06667
+},
+{
+"IDProduct": "1-LE-VAN",
+"Quantity": 0.03
+}
+]
+},
+{
+"IDProduct": "BLSachet16-Mix",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "BLSachet1-CP",
+"Quantity": 4
+},
+{
+"IDProduct": "BLSachet1-GS",
+"Quantity": 4
+},
+{
+"IDProduct": "BLSachet1-PC",
+"Quantity": 4
+},
+{
+"IDProduct": "BLSachet1-SA",
+"Quantity": 4
+}
+]
+},
+{
+"IDProduct": "BLSachet4-Mix",
+"ProductComposition": [
+{
+"IDProduct": "BLSachet1-CP",
+"Quantity": 1
+},
+{
+"IDProduct": "BLSachet1-GS",
+"Quantity": 1
+},
+{
+"IDProduct": "BLSachet1-PC",
+"Quantity": 1
+},
+{
+"IDProduct": "BLSachet1-SA",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "Sachet3-B",
+"ProductComposition": [
+{
+"IDProduct": "Sachet1-E",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-ABG",
+"Quantity": 1
+},
+{
+"IDProduct": "Sachet1-MP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ECAPS",
+"ProductComposition": [
+{
+"IDProduct": "3-LQ-EDB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JQ-175",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TQ-175",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OQ-EDB",
+"Quantity": 90
+},
+{
+"IDProduct": "3-LQ-SHB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CAPS",
+"ProductComposition": [
+{
+"IDProduct": "3-LQ-SHB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JQ-175",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TQ-175",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LQ-SMS",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OQ-SMS",
+"Quantity": 120
+}
+]
+},
+{
+"IDProduct": "GM",
+"ProductComposition": [
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "2-GM-SMC",
+"Quantity": 0.16
+},
+{
+"IDProduct": "3-LM-SMS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS",
+"ProductComposition": [
+{
+"IDProduct": "3-PX-MS1",
+"Quantity": 1
+},
+{
+"IDProduct": "3-MX-SLC",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SR-RAW",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS90*",
+"ProductComposition": [
+{
+"IDProduct": "1-SR-RAW",
+"Quantity": 0.2
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS2X90*",
+"ProductComposition": [
+{
+"IDProduct": "MS90*",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-SOAP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "POWDER",
+"ProductComposition": [
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 226.5
+},
+{
+"IDProduct": "3-PX-PCK",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 453
+},
+{
+"IDProduct": "3-PX-GD1",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD8OZ",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 226.5
+},
+{
+"IDProduct": "3-PX-GD8",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-REG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-EDB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "B",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-BNN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-STB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-PNP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-MPA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "A",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 30.75571
+},
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM2",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS2*1LB",
+"ProductComposition": [
+{
+"IDProduct": "MS",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-MS3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GME",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-EDB",
+"Quantity": 60
+},
+{
+"IDProduct": "3-LM-EDB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM3",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM5",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 5
+},
+{
+"IDProduct": "3-BX-GM5",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CAPS2",
+"ProductComposition": [
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 50
+},
+{
+"IDProduct": "3-JQ-175",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LQ-SMS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "CAPS3",
+"ProductComposition": [
+{
+"IDProduct": "CAPS",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-SOAP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMW",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMEA",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMEA2",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMEA3*",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS3*1LB",
+"ProductComposition": [
+{
+"IDProduct": "MS",
+"Quantity": 3
+},
+{
+"IDProduct": "3-BX-MS3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ECAPS2*",
+"ProductComposition": [
+{
+"IDProduct": "ECAPS",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMEW",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMEW2*",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ECAPSW2*",
+"ProductComposition": [
+{
+"IDProduct": "ECAPS",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM-AMZ",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS(W)",
+"ProductComposition": [
+{
+"IDProduct": "MS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS8oz",
+"ProductComposition": [
+{
+"IDProduct": "3-PX-MS8",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SR-RAW",
+"Quantity": 0.5
+},
+{
+"IDProduct": "3-MX-SLC",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS2WAL",
+"ProductComposition": [
+{
+"IDProduct": "MS",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-MS2",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM2W",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-ACI",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P брак",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 31.25
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.4
+}
+]
+},
+{
+"IDProduct": "R",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.06
+}
+]
+},
+{
+"IDProduct": "SB",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpG-BL",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M-FBA",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-FBA-1",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P-FBA",
+"ProductComposition": [
+{
+"IDProduct": "P брак",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R-FBA",
+"ProductComposition": [
+{
+"IDProduct": "R",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB-FBA",
+"ProductComposition": [
+{
+"IDProduct": "SpB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SB-FBA",
+"ProductComposition": [
+{
+"IDProduct": "SB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MS",
+"ProductComposition": [
+{
+"IDProduct": "1-SR-RAW",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PX-MS1L",
+"Quantity": 1
+},
+{
+"IDProduct": "3-MX-SLC",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 453
+},
+{
+"IDProduct": "3-PX-G1L",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PURPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SZ-PRP",
+"Quantity": 0.453
+},
+{
+"IDProduct": "3-PX-P1L",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PURPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SZ-PRP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PX-P1LB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#T",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-GTM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-TMT",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#A",
+"ProductComposition": [
+{
+"IDProduct": "2-OS-ABE",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PS-MSH",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#C",
+"ProductComposition": [
+{
+"IDProduct": "2-OS-CVC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-PS-MSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LS-VCN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#O",
+"ProductComposition": [
+{
+"IDProduct": "2-OT-OMH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-OMH",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-FBA-2",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MA",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-MAN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GME",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-EDB",
+"Quantity": 60
+},
+{
+"IDProduct": "3-JM-WHT",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-EDBBL",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpGSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-LC-MNT",
+"Quantity": 0.192
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.286
+}
+]
+},
+{
+"IDProduct": "SpB",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-BSR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMM",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-ASH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-MRM",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#C#O-FBA",
+"ProductComposition": [
+{
+"IDProduct": "#C",
+"Quantity": 1
+},
+{
+"IDProduct": "#O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SOAP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-2PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LS-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "#T#A-FBA",
+"ProductComposition": [
+{
+"IDProduct": "#T",
+"Quantity": 1
+},
+{
+"IDProduct": "#A",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SOAP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BS-2PC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LS-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD2oz",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 56.625
+},
+{
+"IDProduct": "3-PX-G2Z",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 31.25
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SpB",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "&",
+"ProductComposition": [
+{
+"IDProduct": "&(1)",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GP",
+"ProductComposition": [
+{
+"IDProduct": "3-LP-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OP-GPB",
+"Quantity": 204
+},
+{
+"IDProduct": "3-JP-SCP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-20O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TP-HSL",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LP-SHB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GPS",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OP-GPR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPM",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OP-GPR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-AC-1",
+"ProductComposition": [
+{
+"IDProduct": "AC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "R-FBA",
+"ProductComposition": [
+{
+"IDProduct": "R",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GME2",
+"ProductComposition": [
+{
+"IDProduct": "BL-GME",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-ASH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD2ozV2",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 56.625
+},
+{
+"IDProduct": "3-PX-G2Z",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GOLD2ozV1",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 56.625
+},
+{
+"IDProduct": "3-PX-G2Z",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-FBA",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPS-FBA1",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-CRP",
+"Quantity": 1
+},
+{
+"IDProduct": "GM",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPS-FBA2",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 1
+},
+{
+"IDProduct": "GM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-CRP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GP-S",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 1
+},
+{
+"IDProduct": "BTL",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA",
+"ProductComposition": [
+{
+"IDProduct": "MP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM-B",
+"ProductComposition": [
+{
+"IDProduct": "2-GM-SMC",
+"Quantity": 0.16
+},
+{
+"IDProduct": "3-PM-SMS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GME-B",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-EDB",
+"Quantity": 60
+},
+{
+"IDProduct": "3-PM-EDB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GM",
+"ProductComposition": [
+{
+"IDProduct": "2-GM-SMC",
+"Quantity": 0.175
+},
+{
+"IDProduct": "3-JM-WHT",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SMSBL",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-S6",
+"ProductComposition": [
+{
+"IDProduct": "S",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-MP6",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-M6",
+"ProductComposition": [
+{
+"IDProduct": "MA",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-P6",
+"ProductComposition": [
+{
+"IDProduct": "P",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-E6",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-ABG6",
+"ProductComposition": [
+{
+"IDProduct": "ABG",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-SpB6",
+"ProductComposition": [
+{
+"IDProduct": "SpB",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPC",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 30.9
+},
+{
+"IDProduct": "1-LF-CCN",
+"Quantity": 0.5
+},
+{
+"IDProduct": "1-PA-MAL",
+"Quantity": 0.3
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 2.6
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 41.2
+},
+{
+"IDProduct": "1-LF-PNP",
+"Quantity": 0.5
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 1.9
+},
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-PCO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LB",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 30.9
+},
+{
+"IDProduct": "1-PA-MAL",
+"Quantity": 0.3
+},
+{
+"IDProduct": "1-LF-MXB",
+"Quantity": 0.6
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 1.3
+},
+{
+"IDProduct": "1-LP-RSB",
+"Quantity": 14.8
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 13
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 2.1
+},
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-MXB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LM",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 30.9
+},
+{
+"IDProduct": "1-PA-MAL",
+"Quantity": 0.3
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 2.6
+},
+{
+"IDProduct": "1-LF-SMN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 2.3
+},
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-MAN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPS-FBA5",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-CRP",
+"Quantity": 1
+},
+{
+"IDProduct": "GP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPS-FBA6",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 1
+},
+{
+"IDProduct": "GM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SBO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BP-SSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-CRP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LL",
+"ProductComposition": [
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 30.01
+},
+{
+"IDProduct": "1-LF-LEM",
+"Quantity": 0.9
+},
+{
+"IDProduct": "1-PA-MAL",
+"Quantity": 0.3
+},
+{
+"IDProduct": "1-LP-LEM",
+"Quantity": 7.8
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 0.27
+},
+{
+"IDProduct": "3-JL-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LL-LEM",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TL-LID",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG-FBA",
+"ProductComposition": [
+{
+"IDProduct": "ABG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LB-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LB",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LL-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LL",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LM-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LM",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LPC-FBA",
+"ProductComposition": [
+{
+"IDProduct": "LPC",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LMIX-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60607",
+"Quantity": 1
+},
+{
+"IDProduct": "LB",
+"Quantity": 1
+},
+{
+"IDProduct": "LL",
+"Quantity": 1
+},
+{
+"IDProduct": "LM",
+"Quantity": 1
+},
+{
+"IDProduct": "LPC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBT",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-R6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+},
+{
+"IDProduct": "R",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "SPR-AC6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+},
+{
+"IDProduct": "AC",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "MPSH",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GP1oz",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 28.3125
+}
+]
+},
+{
+"IDProduct": "MPSh-FBA",
+"ProductComposition": [
+{
+"IDProduct": "MPSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "RGL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 4.14
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 3.08
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.38
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.45
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 12.74
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 4
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 158.55
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.5
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 90.9
+},
+{
+"IDProduct": "1-PE-SMS",
+"Quantity": 1.0909
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "EGL-OLD",
+"ProductComposition": [
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+}
+]
+},
+{
+"IDProduct": "GMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGMB-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGMB-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGMB-VINE3",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGMB-VINE4",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "EGMB-VINE5",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GL2oz",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-CHC",
+"Quantity": 0.125
+},
+{
+"IDProduct": "3-PX-G2O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "LLGL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 4.4449
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.3306
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 0.145
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 1.3789
+},
+{
+"IDProduct": "1-LJ-MML",
+"Quantity": 680.2721
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 17.2593
+}
+]
+},
+{
+"IDProduct": "LM1GL",
+"ProductComposition": [
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 4.4449
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.0476
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.3306
+},
+{
+"IDProduct": "",
+"Quantity": 5.3578
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 1.3789
+},
+{
+"IDProduct": "1-LJ-MML",
+"Quantity": 680.2721
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 17.2593
+}
+]
+},
+{
+"IDProduct": "LMGL",
+"ProductComposition": [
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 614.7541
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 5.5
+},
+{
+"IDProduct": "1-LE-AGA",
+"Quantity": 153.6885
+},
+{
+"IDProduct": "",
+"Quantity": 9.4262
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 8.1967
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 5.3557
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.3984
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 1.6615
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 171.42
+},
+{
+"IDProduct": "",
+"Quantity": 200
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 0.145
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 20.7927
+}
+]
+},
+{
+"IDProduct": "LPCGL",
+"ProductComposition": [
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 614.7541
+},
+{
+"IDProduct": "",
+"Quantity": 92.2131
+},
+{
+"IDProduct": "1-LE-AGA",
+"Quantity": 153.6885
+},
+{
+"IDProduct": "",
+"Quantity": 12.2951
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 7.9918
+},
+{
+"IDProduct": "",
+"Quantity": 17.2131
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 5.3557
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.3984
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 0.145
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 1.6615
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 20.7927
+}
+]
+},
+{
+"IDProduct": "LBGL",
+"ProductComposition": [
+{
+"IDProduct": "1-LP-BBR",
+"Quantity": 127.1186
+},
+{
+"IDProduct": "1-LP-BLB",
+"Quantity": 127.1186
+},
+{
+"IDProduct": "1-LE-AGA",
+"Quantity": 158.8983
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 127.1186
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 5.7627
+},
+{
+"IDProduct": "",
+"Quantity": 16.1017
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 5.5373
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.4119
+},
+{
+"IDProduct": "1-LC-LIM",
+"Quantity": 0.145
+},
+{
+"IDProduct": "1-PF-LME",
+"Quantity": 1.7178
+},
+{
+"IDProduct": "",
+"Quantity": 16.1017
+},
+{
+"IDProduct": "",
+"Quantity": 16.1017
+},
+{
+"IDProduct": "",
+"Quantity": 16.1017
+},
+{
+"IDProduct": "",
+"Quantity": 7.2034
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 171
+},
+{
+"IDProduct": "",
+"Quantity": 57.14
+},
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 21.5175
+}
+]
+},
+{
+"IDProduct": "BL-GMA",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-ASB",
+"Quantity": 0.173
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-ASS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-WHT",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ACP",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PX-CSG",
+"Quantity": 35.21127
+}
+]
+},
+{
+"IDProduct": "SGL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 149.49
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.64
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 2.67
+},
+{
+"IDProduct": "1-LP-STB",
+"Quantity": 622.7
+},
+{
+"IDProduct": "1-LC-STB",
+"Quantity": 2.49
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.21
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.44
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "R2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "R",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "S2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "S",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ACP-1",
+"ProductComposition": [
+{
+"IDProduct": "ACP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "e2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "E",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "ABG",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ED",
+"ProductComposition": [
+{
+"IDProduct": "2-OD-EDB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LD-EDB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PML",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PML-FBA",
+"ProductComposition": [
+{
+"IDProduct": "PML",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "M",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MGL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 136.66
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.32
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 189.15
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 662.01
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.11
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 2.43
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 3.03
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.76
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "SD",
+"ProductComposition": [
+{
+"IDProduct": "2-OD-STB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LD-STB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AD",
+"ProductComposition": [
+{
+"IDProduct": "2-OD-APP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LD-APP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPDT",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-DTP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PHS",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-HSP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ACAS",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-INA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W1",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W2",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W3",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W4",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SRH",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-RHP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "P",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPB-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "SpB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA-VINE3",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA-VINE5",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ACGL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 133.29072
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.38808
+},
+{
+"IDProduct": "1-LP-APP",
+"Quantity": 0.47432
+},
+{
+"IDProduct": "1-LJ-APP",
+"Quantity": 856.69832
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.1616
+},
+{
+"IDProduct": "1-PE-CNN",
+"Quantity": 5.71136
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.40656
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "SRH-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "SRH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MIS",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-ABG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MIS-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "MIS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPDT-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "MPDT",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "PHS-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "PHS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ACAS-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "ACAS",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-ABG6",
+"ProductComposition": [
+{
+"IDProduct": "ABG",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-S6",
+"ProductComposition": [
+{
+"IDProduct": "S",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-SpB6",
+"ProductComposition": [
+{
+"IDProduct": "SpB",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-AC6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+},
+{
+"IDProduct": "AC",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "IHERB-E6",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-MP6",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-R6",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+},
+{
+"IDProduct": "R",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "IHERB-CAPS12",
+"ProductComposition": [
+{
+"IDProduct": "CAPS",
+"Quantity": 12
+},
+{
+"IDProduct": "3-BX-CPS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-ECAPS12",
+"ProductComposition": [
+{
+"IDProduct": "ECAPS",
+"Quantity": 12
+},
+{
+"IDProduct": "3-BX-CPS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - GM12",
+"ProductComposition": [
+{
+"IDProduct": "GM",
+"Quantity": 12
+},
+{
+"IDProduct": "3-BX-GME12",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB-GME12",
+"ProductComposition": [
+{
+"IDProduct": "GME",
+"Quantity": 12
+},
+{
+"IDProduct": "3-BX-GME12",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - POWDER6",
+"ProductComposition": [
+{
+"IDProduct": "POWDER",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-120604",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - GP4",
+"ProductComposition": [
+{
+"IDProduct": "GP",
+"Quantity": 4
+},
+{
+"IDProduct": "3-BX-GP4",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - GOLD8OZ",
+"ProductComposition": [
+{
+"IDProduct": "GOLD8OZ",
+"Quantity": 12
+},
+{
+"IDProduct": "3-BX-161008",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - GOLD1",
+"ProductComposition": [
+{
+"IDProduct": "GOLD",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-161008",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "IHERB - PURPLE1",
+"ProductComposition": [
+{
+"IDProduct": "PURPL",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-161008",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABG1GL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 138.04
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 3.34
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 955.22
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 1.53
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 1.15
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 2.48
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.4
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 240
+},
+{
+"IDProduct": "1-LO-BSD",
+"Quantity": 9.55
+},
+{
+"IDProduct": "1-PE-ASH",
+"Quantity": 10.51
+},
+{
+"IDProduct": "1-PE-GNG",
+"Quantity": 5.25
+},
+{
+"IDProduct": "3-PG-GLN",
+"Quantity": 1
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 1.6
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 8
+}
+]
+},
+{
+"IDProduct": "GMSPR",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-SMS",
+"Quantity": 60
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SM3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM6SPR",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-GME",
+"Quantity": 1
+},
+{
+"IDProduct": "GMSPR",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "GME6SPR",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-GME",
+"Quantity": 1
+},
+{
+"IDProduct": "GME",
+"Quantity": 6
+}
+]
+},
+{
+"IDProduct": "T",
+"ProductComposition": [
+{
+"IDProduct": "3-JG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-16O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-PMP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-TOP",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "P2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "P",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPNEW-FBA",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "AC",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "AC2-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-90604",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 2
+},
+{
+"IDProduct": "AC",
+"Quantity": 2
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+},
+{
+"IDProduct": "1-PS-PSO",
+"Quantity": 0.43
+},
+{
+"IDProduct": "1-LP-PNP",
+"Quantity": 30.49
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 109.76
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.31
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 30.49
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.49
+},
+{
+"IDProduct": "1-LC-PNP",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABGSMPL",
+"ProductComposition": [
+{
+"IDProduct": "1-SG-REG",
+"Quantity": 18.12
+},
+{
+"IDProduct": "1-LP-MAN",
+"Quantity": 118.08
+},
+{
+"IDProduct": "1-LC-MNG",
+"Quantity": 0.19
+},
+{
+"IDProduct": "1-PV-VMC",
+"Quantity": 0.14
+},
+{
+"IDProduct": "1-PA-CTR",
+"Quantity": 0.31
+},
+{
+"IDProduct": "1-PS-NSN",
+"Quantity": 0.05
+},
+{
+"IDProduct": "1-PX-ERT",
+"Quantity": 29.52
+},
+{
+"IDProduct": "1-LO-BSD",
+"Quantity": 1.18
+},
+{
+"IDProduct": "1-PE-ASH",
+"Quantity": 1.3
+},
+{
+"IDProduct": "1-PE-GNG",
+"Quantity": 0.65
+},
+{
+"IDProduct": "1-PE-MNK",
+"Quantity": 0.2
+},
+{
+"IDProduct": "1-LX-RWB",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "MP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP-FBA-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "MP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M-FBA-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "M-FBA-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPSh-FBA-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "MPSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPSh-FBA-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "MPSH",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-FBA-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "E-FBA-VINE1",
+"ProductComposition": [
+{
+"IDProduct": "E",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-80404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-SPN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BF-FLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP8OZ",
+"ProductComposition": [
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+},
+{
+"IDProduct": "",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SNEW-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "S",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "ABGNEW-FBA",
+"ProductComposition": [
+{
+"IDProduct": "ABG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMP",
+"ProductComposition": [
+{
+"IDProduct": "2-GB-PBO",
+"Quantity": 0.173
+},
+{
+"IDProduct": "3-TM-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-SSK",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LM-PBO",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JM-CLR",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP8OZ-VINE",
+"ProductComposition": [
+{
+"IDProduct": "MP8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP8OZ-VINE2",
+"ProductComposition": [
+{
+"IDProduct": "MP8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP8OZ-VINE3",
+"ProductComposition": [
+{
+"IDProduct": "MP8OZ",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MP8OZ-VINE4",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+},
+{
+"IDProduct": "MP8OZ",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPR-T6",
+"ProductComposition": [
+{
+"IDProduct": "T",
+"Quantity": 6
+},
+{
+"IDProduct": "3-BX-SPR",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-DVS",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "SPBNEW-FBA",
+"ProductComposition": [
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "SpB",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GPNEW",
+"ProductComposition": [
+{
+"IDProduct": "3-LP-GEN",
+"Quantity": 1
+},
+{
+"IDProduct": "2-OP-GPB",
+"Quantity": 204
+},
+{
+"IDProduct": "3-JP-SCP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-JP-20O",
+"Quantity": 1
+},
+{
+"IDProduct": "3-TP-HSL",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W5",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W6",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W7",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMA-W8",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMA",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMP-V1",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMP-V2",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMP-V3",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "BL-GMP-V4",
+"ProductComposition": [
+{
+"IDProduct": "BL-GMP",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GME-B2",
+"ProductComposition": [
+{
+"IDProduct": "GME-B",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "GM-B2",
+"ProductComposition": [
+{
+"IDProduct": "GM-B",
+"Quantity": 2
+},
+{
+"IDProduct": "3-BX-GM1-3",
+"Quantity": 1
+}
+]
+},
+{
+"IDProduct": "MPOLD-FBA",
+"ProductComposition": [
+{
+"IDProduct": "M",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-60404",
+"Quantity": 1
+},
+{
+"IDProduct": "3-BX-CBG",
+"Quantity": 1
+},
+{
+"IDProduct": "3-LG-FRG",
+"Quantity": 1
+}
+]
+}
+]

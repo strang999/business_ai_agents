@@ -1,0 +1,33 @@
+# AI Life Coach Brain - Dependencies
+
+# Core Framework
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+python-dotenv
+python-multipart
+
+# LLM & AI - LangChain Core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# LLM Providers
+langchain-google-genai>=2.0.0   # Google Gemini (FREE $300 credit)
+langchain-openai>=0.2.0          # OpenAI GPT-4o (PAID)
+# Note: Ollama uses langchain-community (ChatOllama)
+
+# Embeddings
+openai>=1.0.0
+google-generativeai>=0.8.0
+
+# Database
+supabase>=2.0.0
+
+# Text Processing
+tiktoken
+pypdf              # PDF parsing
+
+# Document Loading (for ingest.py)
+langchain-text-splitters

@@ -25,6 +25,7 @@ MANIFEST
 venv/
 env/
 ENV/
+myenv/
 .env
 .venv
 env.bak/
@@ -47,6 +48,22 @@ venv.bak/
 # Logs
 *.log
 
-# Skylix Specific
+# Project Specific
+agents/call-agent
+agents/simple-call-agent
+agents/agents
 d:/Apps/ZIRA/ai-agents/skylix_portfolio/deep_research/__pycache__
 skylix_portfolio/deep_research/__pycache__
+
+# Node modules (for ai-mentor)
+node_modules/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# Generated output files
+research_results_*.json
+content_calendar_*.json
+*_leads.json
+output/
+*.csv

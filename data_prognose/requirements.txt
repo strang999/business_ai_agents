@@ -1,0 +1,35 @@
+# Trading Agent Dependencies
+
+# Core Framework
+langgraph==0.2.45
+langchain==0.3.12
+langchain-openai==0.2.13
+langchain-core==0.3.23
+langchain-community==0.3.12
+
+# UI
+streamlit==1.40.2
+
+# Data & Utils
+python-dotenv==1.0.1
+pandas==2.2.3
+numpy==2.2.1
+
+# Trading Data Sources (Optional - for production)
+ccxt==4.4.46  # Crypto exchange APIs
+yfinance==0.2.50  # Stock market data
+ta==0.11.0  # Technical analysis library
+
+# Time Series Prediction Models (Optional - for production)
+chronos-forecasting==1.3.1  # Amazon's foundation model (RECOMMENDED) ⭐
+# prophet==1.1.6  # Meta's forecasting tool
+# nixtla  # TimeGPT - uncomment when ready to use
+# neuralforecast  # N-BEATS, N-HiTS models
+
+# API & Web
+requests==2.32.3
+pydantic==2.10.4
+
+# Testing (Optional)
+# pytest==8.3.4
+# pytest-asyncio==0.25.2

@@ -1,0 +1,32 @@
+# Docker Compose for Warehouse Forecasting
+
+version: '3.8'
+
+services:
+  warehouse-forecast:
+    build: .
+    container_name: warehouse_forecast
+    volumes:
+      - ./data:/app/data:ro # Read-only data mount (NDA protected)
+      - ./output:/app/output # Output mount
+      - ./models:/root/.cache/huggingface # Model cache
+    environment:
+      - FORECAST_HORIZON=30
+      - MODEL_SIZE=small # tiny, small, or base
+      - DEVICE=cpu # cpu or cuda
+    command: python main.py --horizon 30
+
+  # Optional: Scheduled runs
+  forecast-scheduler:
+    build: .
+    container_name: forecast_scheduler
+    volumes:
+      - ./data:/app/data:ro
+      - ./output:/app/output
+      - ./models:/root/.cache/huggingface
+    environment:
+      - SCHEDULE=0 9 * * * # Daily at 9 AM (cron format)
+    command: |
+      sh -c "echo '0 9 * * * cd /app && python main.py --horizon 60 >> /app/output/cron.log 2>&1' | crontab - && crond -f"
+    profiles:
+      - scheduler # Only run with: docker-compose --profile scheduler up
